@@ -618,7 +618,7 @@ void AddSC_arena_of_annihilation()
     new npc_jolgrum();          // 63312
     new npc_little_liuyang();   // 63313
     new npc_chagan_firehoof();  // 63318
-    new npc_batu();             // 
+    new npc_batu();             // 63872
     new npc_maki_waterblade();  // 64280
     new npc_satay_byu();        // 64281
     new npc_cloudbender_kobo(); // 63316
