@@ -39,7 +39,7 @@ set(scripts_STAT_SRCS
   ${sources_TimelessIsle}
 
   Pandaria/boss_sha_of_anger.cpp
-  Pandaria/boss_galion.cpp
+  Pandaria/boss_galleon.cpp
   Pandaria/boss_nalak.cpp
   Pandaria/boss_oondasta.cpp
   
