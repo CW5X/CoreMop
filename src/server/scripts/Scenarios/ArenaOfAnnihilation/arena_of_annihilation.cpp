@@ -596,10 +596,10 @@ class npc_cloudbender_kobo : public CreatureScript
         };
 };
 
-class go_gong : public GameObjectScript
+class go_gong_arena : public GameObjectScript
 {
     public:
-        go_gong() : GameObjectScript("go_gong") { }
+        go_gong_arena() : GameObjectScript("go_gong_arena") { }
 
         bool OnGossipHello(Player* /*player*/, GameObject* go)
         {
@@ -622,5 +622,5 @@ void AddSC_arena_of_annihilation()
     new npc_maki_waterblade();  // 64280
     new npc_satay_byu();        // 64281
     new npc_cloudbender_kobo(); // 63316
-    new go_gong();              // 212974
+    new go_gong_arena();        // 212974
 }
